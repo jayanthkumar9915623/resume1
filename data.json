@@ -1,9 +1,9 @@
 {
 	"details":{
-		"name":"jayanth",
+		"name":"jayanth kumar",
 		"image":"3.jpg",
 		"phone":"9703137869",
-		"email":"daramjayanthkumar.com"
+		"email":"daramjayanthkumar@gmail.com"
 },
 "education":[
 {
@@ -15,13 +15,13 @@
 {
 
 	"course":"inter(mpc)",
-	"college":"narayana",
+	"college":"sri gayatri",
 	"per":"85%"
 
 },
 {
 	"course":"ssc",
-	"college":"yts",
+	"college":"s v v em school",
 	"per":"88%"
 
 }
@@ -40,6 +40,6 @@
 }
 ],
 	"carrier":{
-	"co" : "i am a good son  "
+	"co" : "Being an extrovert i take the issues of the company which is to be organized with empathy"
 }
 }
