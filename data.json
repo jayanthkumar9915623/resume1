@@ -1,9 +1,9 @@
 {
 	"details":{
-		"name":"prabhu",
-		"image":"123.png",
+		"name":"jayanth",
+		"image":"",
 		"phone":"0123456789",
-		"email":"prabhukiran720@gmail.com"
+		"email":"daramjayanthkumar.com"
 },
 "education":[
 {
@@ -21,7 +21,7 @@
 },
 {
 	"course":"ssc",
-	"college":"bps",
+	"college":"yts",
 	"per":"88%"
 
 }
@@ -40,6 +40,6 @@
 }
 ],
 	"carrier":{
-	"co" : "iam the BOSS of my new rising company to become number 1 in the world"
+	"co" : "i am a good son"
 }
 }
