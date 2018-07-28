@@ -11,7 +11,7 @@
 	box-shadow: 3px 3px 3px white;
 	margin: 1%;
 	padding: 1%;
-	background-color: white;  
+	background-color: gray;  
 }
 .right{
 	width:60%;
@@ -27,7 +27,7 @@ img{
 	box-shadow: 3px 3px 3px orange;
 	margin: 1%;
 	padding: 1%;
-	background-color:;
+	background-color:sky blue;
 }
 h1,
 h2,
@@ -57,7 +57,7 @@ h3{
 	box-shadow: 3px 3px 3px white;
 	margin: 1%;
 	padding: 1%;
-	background-color: white;  
+	background-color: gray;  
 }
 .right{
 	width:60%;
@@ -65,7 +65,7 @@ h3{
 	box-shadow: 3px 3px 3px orange;
 	margin: 1%;
 	padding: 1%;
-	background-color:;
+	background-color:sky blue;
 }
 }
  table,tr,td {
